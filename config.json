@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuelete",
+        "uuid": 8842344,
+        "checksum": "l6ykbm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
